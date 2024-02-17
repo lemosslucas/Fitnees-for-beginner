@@ -8,9 +8,12 @@
 ### The user can chooise to open the training for the biggests peoples in the gym  
 - Your datas
 ### The user needs register your dates in the nutrition area, after this the system print all datas of user (calculated in the nutrition area)
-## REQUIREMENTS:
-## For run the program you need install the [requeriments](requeriments)
-## LICENSE:
+## Installation:
+### To install the dependecies for this project, can use the 'requeriments.txt' file. Run the following command in your terminal:
+> pip install -r requirements.txt
+>[!NOTE] 
+> If you have any doubts or problem to install the pip(package installer python), you can see the video bellow for support you. How to install: https://www.youtube.com/watch?v=2C228srr8Zw If you prompt doesnt recognize the pip: https://www.youtube.com/watch?v=xdj0mGmuNjc
+## LICENSE: 
 ### This project is under the [LICENSE](LICENSE)
 >[!NOTE]
 > The program was devoloped by @lemosslucas
