@@ -1,2 +1,2 @@
-pip install tabulate
-pip install validator_collection
+- pip install tabulate
+- pip install validator_collection
